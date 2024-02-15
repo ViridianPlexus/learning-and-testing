@@ -1,0 +1,26 @@
+{
+  "name": "learning_vs_code",
+  "version": "1.0.0",
+  "description": "muckign about right",
+  "main": "testing.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViridianPlexus/learning-and-testing.git"
+  },
+  "keywords": [
+    "idk",
+    "what",
+    "keywords",
+    "to",
+    "use"
+  ],
+  "author": "viridian plexus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViridianPlexus/learning-and-testing/issues"
+  },
+  "homepage": "https://github.com/ViridianPlexus/learning-and-testing#readme"
+}
